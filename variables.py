@@ -1,3 +1,6 @@
+#Variable = A container for a value(string, integers, float, bollean)
+#           A variable behaves as if it was value it contains
+
 #string
 name = "Wyre"
 color = "Red"
